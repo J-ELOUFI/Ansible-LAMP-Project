@@ -1,0 +1,4 @@
+[web]
+Node-01 ansible_user=root
+[db]
+Node-02 ansible_user=root
